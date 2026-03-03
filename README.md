@@ -4,6 +4,7 @@
 
 By combining user-defined priorities with socio-economic indicators and data-driven methods, the app produces a personalized ranking of countries along with clear visual explanations.
 
+This web app was developed for the Data Science Lab course.
 ---
 
 ## Project Goals
